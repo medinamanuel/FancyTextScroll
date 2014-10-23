@@ -1,0 +1,3 @@
+AquaBase|BOLD|10|00CCCC|005EC12|¡Terminé la serie de "Los años maravillosos"!|AquaBase|PLAIN|8|FF0000|000000|Nada más me tomó 5 años, pero al fin la completé.|http://unmexicanoenjapon.com|_blank
+AquaBase|BOLD|10|00CCCC|005EC12|¿Quién ganará la Capcom Cup 2014?|AquaBase|PLAIN|8|FF0000|000000|Aunque faltan todavía varios lugares por decidirse, la gente comienza a escoger a sus favoritos. ¿Cuál es el tuyo?|http://reddit.com/r/kappa|_blank
+AquaBase|BOLD|10|00CCCC|005EC12|Hace frío|AquaBase|PLAIN|8|FF0000|000000|Ha entrado de lleno el otoño a Japón. Se comienza a sentir el clima helado. ¡Se acerca el invierno!|http://weather.yahoo.co.jp|_blank
