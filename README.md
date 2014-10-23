@@ -1,4 +1,4 @@
-# Fancy Text Scroll
+Fancy Text Scroll
 ===================
 
 ## Description
